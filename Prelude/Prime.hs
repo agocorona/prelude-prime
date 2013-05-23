@@ -1,3 +1,5 @@
+-- | Because of a bug in haddock, you can't see what exactly is exported
+-- from each module here. Look at <https://github.com/feuerbach/prelude-prime/blob/master/Prelude/Prime.hs> to get a better idea.
 module Prelude.Prime
   ( module Prelude
   , module Data.Foldable
